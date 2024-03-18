@@ -15,6 +15,7 @@ public class Application {
 		int k=30;
 
       public void m2(){
+	      int a=10;
 }
                 	}
 
