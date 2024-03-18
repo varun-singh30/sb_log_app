@@ -13,6 +13,9 @@ public class Application {
                 int age=40;
 
 		int k=30;
+
+      public void m2(){
+}
                 	}
 
 }
